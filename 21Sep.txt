@@ -1,0 +1,6 @@
+git fetch origin
+git remote rm origin
+docker
+personal access token
+git pull origin
+

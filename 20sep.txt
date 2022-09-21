@@ -4,3 +4,4 @@ using cat (cat > newFile.txt) creates and can start appending to file.
 using vim (vim newFile.txt) creates and can start editing the file.
 using nano (nano newFile.txt) modifies the file.
 using git rm (git rm newFile.txt) deletes the file.
+using git branch (git rm newFile.txt) creates a branch.
