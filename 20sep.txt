@@ -1,0 +1,5 @@
+using touch (touch newFile.txt) only creates.
+using echo (echo > newFile.txt) only creates.
+using cat (cat > newFile.txt) creates and can start appending to file.
+using vim (vim newFile.txt) creates and can start editing the file.
+using nano (nano newFile.txt) modifies the file.
