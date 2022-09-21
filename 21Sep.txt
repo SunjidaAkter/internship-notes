@@ -1,6 +1,6 @@
 git fetch origin
-git remote rm origin
+git remote rm origin : git command for removing a git origin
 docker
-personal access token
+personal access token : for generating personal access token on github we should follow this link"https://github.com/settings/tokens"
 git pull origin
-
+git push --set-upstream
