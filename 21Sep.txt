@@ -4,3 +4,5 @@ docker
 personal access token : for generating personal access token on github we should follow this link"https://github.com/settings/tokens"
 git pull origin
 git push --set-upstream
+
+docker : docker is a tool which is used to automate the applications in lightweight containers so that the applications can work efficiently in different environment
